@@ -17,7 +17,7 @@ class SignUp extends StatelessWidget {
               Image.asset(
                 '../assets/images/robo-advisor.jpg',
                 width: 100.0,
-                height: 10git0.0,
+                height: 100.0,
                 
               ),
               TextFormField(
